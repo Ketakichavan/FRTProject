@@ -15,6 +15,7 @@ Welcome to PassionKraft - where style meets purpose, and fashion goes beyondthe 
 ![Screenshot (206)](https://github.com/Ketakichavan/FRTProject/assets/156675252/ecbc8a0d-cca9-4573-afd0-39cefbc892d1)
 
 
+
 𝐀𝐳𝐮𝐫𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐮𝐬𝐞𝐝:
 
 1. Storage accounts - An Azure storage account contains all of your Azure Storage data objects: blobs, files, queues, and tables. The storage account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. Used this service to store the files of my website.
