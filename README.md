@@ -1,4 +1,4 @@
-![Screenshot (202)](https://github.com/Ketakichavan/FRTProject/assets/156675252/c1b826c3-e2ce-4b63-a47d-e9c4b8d8a0ab)𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐊𝐫𝐚𝐟𝐭
+𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐊𝐫𝐚𝐟𝐭
 
 Welcome to PassionKraft - where style meets purpose, and fashion goes beyondthe runway.We are more than just a brand; we are community of fashion enthusiasts, dreamers and conscious individuals who believe that clothing is a powerful form of self-expression. I created a fashion website called "PassionKraft" using HTML, CSS and JavaScript. There are many websites that offer great quality clothing but are not pocket-friendly. Today people people want to wear clothes that are finely-made and have a fine quality. So to address this problem I came up with a website that will address this issue. PassionKraft offers fashion for men, women and kids and emphasizes the art of styles as opposed to just dressing your self daily.
 
@@ -11,7 +11,7 @@ Welcome to PassionKraft - where style meets purpose, and fashion goes beyondthe 
 ![Screenshot (199)](https://github.com/Ketakichavan/FRTProject/assets/156675252/1ae50f26-275b-40e4-b701-3fb21be7bcc0)
 ![Screenshot (205)](https://github.com/Ketakichavan/FRTProject/assets/156675252/af34ffd3-57dd-4588-9278-9e5b197204e1)
 )![Screenshot (204)](https://github.com/Ketakichavan/FRTProject/assets/156675252/6ba0a249-3850-44b7-bdd4-8cc3fc3b0838)
-
+![Screenshot (202)](https://github.com/Ketakichavan/FRTProject/assets/156675252/c1b826c3-e2ce-4b63-a47d-e9c4b8d8a0ab)
 
 
 𝐀𝐳𝐮𝐫𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐮𝐬𝐞𝐝:
