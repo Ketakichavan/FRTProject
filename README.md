@@ -11,3 +11,17 @@ Welcome to PassionKraft - where style meets purpose, and fashion goes beyondthe 
 ![Screenshot (195)](https://github.com/Ketakichavan/FRTProject/assets/156675252/a8f53ec3-2ce5-4688-b49b-63f2e922d1cd)
 ![Screenshot (194)](https://github.com/Ketakichavan/FRTProject/assets/156675252/56477a89-6eb9-4113-b7d3-bb82553adac4)
 ![Screenshot (193)](https://github.com/Ketakichavan/FRTProject/assets/156675252/ee62ca07-23c7-4a3e-9d88-adc801e18f08)
+
+𝐀𝐳𝐮𝐫𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐮𝐬𝐞𝐝:
+
+1. Storage accounts - An Azure storage account contains all of your Azure Storage data objects: blobs, files, queues, and tables. The storage account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. Used this service to store the files of my website.
+
+2. Static web apps - Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository. Used this service to host my website.
+
+3. AI Language - Azure AI Language is a managed service for developing natural language processing applications. Identify key terms and phrases, analyze sentiment, summarize text, and build conversational interfaces. Used this service to create a chatbot into my website.
+
+
+𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐮𝐬𝐞𝐝:
+HTML
+CSS
+Javascript
