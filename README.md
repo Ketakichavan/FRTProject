@@ -10,7 +10,8 @@ Welcome to PassionKraft - where style meets purpose, and fashion goes beyondthe 
 ![Screenshot (200)](https://github.com/Ketakichavan/FRTProject/assets/156675252/91904ef6-433f-42a4-a9af-f9af9a2c93a2)
 ![Screenshot (199)](https://github.com/Ketakichavan/FRTProject/assets/156675252/1ae50f26-275b-40e4-b701-3fb21be7bcc0)
 ![Screenshot (205)](https://github.com/Ketakichavan/FRTProject/assets/156675252/af34ffd3-57dd-4588-9278-9e5b197204e1)
-)![Screenshot (204)](https://github.com/Ketakichavan/FRTProject/assets/156675252/6ba0a249-3850-44b7-bdd4-8cc3fc3b0838)
+)![Screenshot (204)](https://github.com/![Screenshot (206)](https://github.com/Ketakichavan/FRTProject/assets/156675252/ecbc8a0d-cca9-4573-afd0-39cefbc892d1)
+Ketakichavan/FRTProject/assets/156675252/6ba0a249-3850-44b7-bdd4-8cc3fc3b0838)
 ![Screenshot (202)](https://github.com/Ketakichavan/FRTProject/assets/156675252/c1b826c3-e2ce-4b63-a47d-e9c4b8d8a0ab)
 
 
